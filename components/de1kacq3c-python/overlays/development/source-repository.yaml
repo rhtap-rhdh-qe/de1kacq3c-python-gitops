@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: de1kacq3c-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/de1kacq3c-python
